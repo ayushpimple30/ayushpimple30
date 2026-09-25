@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="500" height="316" alt="giphy (1)" src="https://github.com/user-attachments/assets/9cc93787-d30c-4d44-b1ea-5ae63b6f020a" />
+  <img width="600" height="316" alt="giphy (1)" src="https://github.com/user-attachments/assets/9cc93787-d30c-4d44-b1ea-5ae63b6f020a" />
 </p>
 
 <h1 align="center">Connect with me:</h1>
