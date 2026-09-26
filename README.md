@@ -12,8 +12,8 @@
 <p align="center">
 <a href="https://codepen.io/ayushpimple30" target="blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
 <a href="https://twitter.com/ayushpimple30" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://linkedin.com/in/ayushpimple30" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/ayushpimple30" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://linkedin.com/in/ayush-pimple-241547358/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/ayush_pimple_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 
