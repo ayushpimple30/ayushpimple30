@@ -1,50 +1,83 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Pimple;Software+Engineer" alt="Typing SVG" />
-</h1>
+<!-- Animated GitHub profile README for Ayush Pimple -->
 
+<div align="center">
 
-<p align="center">
-  <img width="900" height="500" alt="giphy (1)" src="https://github.com/user-attachments/assets/9cc93787-d30c-4d44-b1ea-5ae63b6f020a" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f766e,70:2563eb,100:7c3aed&height=220&section=header&text=AYUSH%20PIMPLE&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20BUILDING%20COOL%20THINGS&descAlignY=59&descSize=15" alt="Animated Ayush Pimple profile banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Pimple;Final-Year+Engineering+Student;Exploring+AI+%26+Embedded+Systems;Turning+Ideas+Into+Projects" alt="Animated introduction"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ayushpimple30&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-7c3aed?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/BUILDING-FFM%20Sentinel-0891b2?style=for-the-badge" alt="Building FFM Sentinel"/>
 </p>
 
-<h1 align="center">Connect with me:</h1>
+<a href="https://github.com/ayushpimple30">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushpimple30&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies"/>
+</a>
 
-<p align="center">
-<a href="https://codepen.io/ayushpimple30" target="blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
-<a href="https://twitter.com/ayushpimple30" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://linkedin.com/in/ayush-pimple-241547358/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/ayush_pimple_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
+</div>
 
+---
 
-<h1 align="center">Tech Stack</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,php,dotnet" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin,aws,gcp,firebase,mongodb,mysql,sqlite,tensorflow,pytorch" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" />
-</p>
+## ⚡ About Me
 
-<h2 align="center">My GitHub Stats ⚓</h2>
+- 🎓 Final-year engineering student interested in practical software and AI projects.
+- 🤖 Building **FFM Sentinel**, an offline multimodal AI companion project.
+- 🧠 Exploring Python, AI, embedded computing, and full-stack development.
+- 🛠️ I enjoy learning by building, testing, and improving real projects.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpimple30&theme=highcontrast&animation=rgb" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpimple30&theme=highcontrast&animation=rgb" />
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpimple30&theme=highcontrast&animation=rgb" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpimple30&theme=highcontrast&animation=rgb&utcOffset=5" />
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/ayush-pimple-241547358/"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://twitter.com/ayushpimple30"><img src="https://skillicons.dev/icons?i=twitter" height="44" alt="Twitter"/></a>&nbsp;
+  <a href="https://instagram.com/ayush_pimple_"><img src="https://skillicons.dev/icons?i=instagram" height="44" alt="Instagram"/></a>&nbsp;
+  <a href="https://codepen.io/ayushpimple30"><img src="https://skillicons.dev/icons?i=codepen" height="44" alt="CodePen"/></a>
+</div>
 
+## 🧰 Tech Stack
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,tailwind,nodejs,express,php,dotnet&perline=7" alt="Languages and development tools"/>
 
-<p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushpimple30/ayushpimple30/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80%" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,mongodb,mysql,sqlite,tensorflow,pytorch,git,github,vscode,linux,raspberrypi&perline=7" alt="Cloud, data, AI, and developer tools"/>
 
+</div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushpimple30&theme=tokyonight" alt="Top languages by repository"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushpimple30&theme=tokyonight" alt="Top languages by commits"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushpimple30&theme=tokyonight" alt="GitHub statistics"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushpimple30&theme=tokyonight&utcOffset=5.5" alt="Commit activity by time"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpimple30&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpimple30&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+
+</div>
+
+## 🐍 Contribution Arcade
+
+<div align="center">
+
+<!-- The snake image is generated by the GitHub Actions workflow in .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/ayushpimple30/ayushpimple30/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake. It appears after the workflow runs successfully." width="100%"/>
+
+<img src="https://raw.githubusercontent.com/ayushpimple30/ayushpimple30/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80%" alt="Retro arcade animation"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Keep+learning.;Keep+building.;Keep+shipping." alt="Animated closing message"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,45:2563eb,100:0f766e&height=110&section=footer" alt="Animated footer"/>
+  <sub>Designed with curiosity • Powered by consistency</sub>
+</div>
